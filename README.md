@@ -33,7 +33,7 @@ This project implements a simple **genetic programming** algorithm to solve the 
 g++ -O2 CartpoleEvolution.cpp -o cartpole_sim
 ```
 
-### Compile
+### Run
 ```bash
 ./cartpole_sim
 ```
