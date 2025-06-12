@@ -26,7 +26,6 @@ This project implements a simple **genetic programming** algorithm to solve the 
 ### Prerequisites
 
 - A C++ compiler (e.g., `g++`)
-- Basic familiarity with terminal commands
 
 ### Compile
 
